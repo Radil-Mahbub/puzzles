@@ -1,0 +1,4 @@
+﻿  Quadratic_equation.cpp
+C:\Users\user\source\repos\Quadratic_equation\Quadratic_equation\Quadratic_equation.cpp(28,26): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\user\source\repos\Quadratic_equation\Quadratic_equation\Quadratic_equation.cpp(36,17): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+  Quadratic_equation.vcxproj -> C:\Users\user\source\repos\Quadratic_equation\Debug\Quadratic_equation.exe
